@@ -5,4 +5,5 @@ Luximetro digital feito com Attiny85, Sensor de luminosidade GY30 e Display OLED
 * Botão para troca de precisão do modo de leitura
 * Botão para travar a leitura
 
+<img src="lux-vid.gif" />
 <img src="lux-prototype.jpg" />
